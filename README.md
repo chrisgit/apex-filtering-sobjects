@@ -26,6 +26,8 @@ This exercise is all about taking the result of a SOQL query and then reducing o
 
 [String Expression Filtering](docs/expression-filtering.md)
 
+[Custom Iterators](docs/custom-iterators.md)
+
 Since creating these classes other projects to perform client side filtering have become available including
 - [Lazy Iterators](https://nebulaconsulting.co.uk/insights/using-lazy-evaluation-to-write-salesforce-apex-code-without-for-loops/) with [code](https://bitbucket.org/aidan_harding/lazy-iterator/src/master/) published on bitbucket. 
 - Apex Lambda with [code](https://github.com/ipavlic/apex-lambda) published on Github.
